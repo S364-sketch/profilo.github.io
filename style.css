@@ -319,13 +319,13 @@ transition: 0.7s;
   height: 100vh;
 }
 .blockes{
-  width: 80%;
+  width: 100%;
   display: flex;
   flex-wrap: wrap;
   margin-left: 7%;
 }
 .block{
-flex-basis: 22%;
+flex-basis: 20%;
 height: 203px;
 position: relative;
 margin-left: 35px;
